@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "tarea1",
+        "description": "Hacer una api con este json",
+        "status": false
+    },
+    {
+        "title": "una nueva tarea1",
+        "description": "crear un post y agregarlo al json",
+        "status": false,
+        "id": 2
+    },
+    {
+        "title": "tarea3",
+        "description": "Hacer una api con este json",
+        "status": true,
+        "id": 3
+    },
+    {
+        "title": "tarea5",
+        "description": "Hacer una api con este json",
+        "status": false,
+        "id": 5
+    },
+    {
+        "title": "tarea6",
+        "description": "Hacer una api con este json",
+        "status": false,
+        "id": 6
+    }
+]
